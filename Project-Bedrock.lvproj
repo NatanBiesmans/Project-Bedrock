@@ -19,6 +19,8 @@
 		</Item>
 		<Item Name="Are Inputs of the same type" Type="VI" URL="../Are Inputs of the same type"/>
 		<Item Name="Test Caller.vi" Type="VI" URL="../Test Caller.vi"/>
+		<Item Name="Test Results.ctl" Type="VI" URL="../Test Results.ctl"/>
+		<Item Name="Test Symbol.ctl" Type="VI" URL="../Test Symbol.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
