@@ -1,0 +1,4 @@
+This software is provided as FOSS (Free and Open Source Software) by Natan Biesmans.
+
+This software is provided as is without any warranty of any kind.
+Copies and alterations of this software is permitted with under the condition that references to the name "Natan Biesmans" are NOT REMOVED and ANY DEVIATION to the original source code needs to be explicitly mentioned.
